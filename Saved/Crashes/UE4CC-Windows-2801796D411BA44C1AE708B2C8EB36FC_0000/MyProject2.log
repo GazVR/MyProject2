@@ -1,0 +1,1230 @@
+﻿Log file open, 03/07/18 12:29:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1317250600) SRandInit(1317250600).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167540
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.07-11.29.04:851][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.07-11.29.04:851][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.07-11.29.04:861][  0]LogInit: Computer: ITINERANTE
+[2018.03.07-11.29.04:861][  0]LogInit: User: GAZVR
+[2018.03.07-11.29.04:861][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.07-11.29.04:861][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.03.07-11.29.04:861][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.03.07-11.29.04:861][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.07-11.29.04:861][  0]LogMemory: Process Physical Memory: 279.36 MB used, 279.36 MB peak
+[2018.03.07-11.29.04:861][  0]LogMemory: Process Virtual Memory: 274.28 MB used, 274.28 MB peak
+[2018.03.07-11.29.04:861][  0]LogMemory: Physical Memory: 12204.89 MB used,  20488.89 MB free, 32693.77 MB total
+[2018.03.07-11.29.04:861][  0]LogMemory: Virtual Memory: 729.11 MB used,  20488.89 MB free, 134217728.00 MB total
+[2018.03.07-11.29.04:999][  0]LogInit: Using OS detected language (es-ES).
+[2018.03.07-11.29.04:999][  0]LogInit: Using OS detected locale (es-ES).
+[2018.03.07-11.29.05:001][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.03.07-11.29.05:165][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.07-11.29.05:401][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.07-11.29.05:426][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K420 ' (Feature Level 11_0)
+[2018.03.07-11.29.05:426][  0]LogD3D11RHI:       1989/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.07-11.29.05:428][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.07-11.29.05:428][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.07-11.29.05:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.07-11.29.05:445][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.07-11.29.05:445][  0]LogD3D11RHI:     GPU DeviceId: 0xff3 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.07-11.29.05:445][  0]LogWindows: EnumDisplayDevices:
+[2018.03.07-11.29.05:445][  0]LogWindows:    0. 'NVIDIA Quadro K420 ' (P:1 D:1)
+[2018.03.07-11.29.05:445][  0]LogWindows:    1. 'NVIDIA Quadro K420 ' (P:0 D:1)
+[2018.03.07-11.29.05:445][  0]LogWindows:    2. 'NVIDIA Quadro K420 ' (P:0 D:0)
+[2018.03.07-11.29.05:445][  0]LogWindows:    3. 'NVIDIA Quadro K420 ' (P:0 D:0)
+[2018.03.07-11.29.05:445][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.07-11.29.05:445][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K420 
+[2018.03.07-11.29.05:445][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.07-11.29.05:445][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.07-11.29.05:445][  0]LogRHI: Texture pool is 1392 MB (70% of 1989 MB)
+[2018.03.07-11.29.05:460][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.03.07-11.29.05:460][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.07-11.29.05:473][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.07-11.29.05:477][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Intermediate/Shaders/WorkingDirectory/57960/).
+[2018.03.07-11.29.05:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GAZ VR/AppData/Local/Temp/UnrealShaderWorkingDir/29AB5623423277150FAC539795216A6A/'.
+[2018.03.07-11.29.05:477][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.07-11.29.06:386][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.07-11.29.06:433][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.07-11.29.06:483][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.07-11.29.06:530][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.07-11.29.06:580][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.07-11.29.06:628][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.07-11.29.06:675][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.07-11.29.06:723][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.07-11.29.06:765][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.07-11.29.06:811][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.07-11.29.06:857][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.07-11.29.06:903][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.07-11.29.06:948][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.07-11.29.06:996][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.07-11.29.07:091][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.07-11.29.07:091][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.07-11.29.07:138][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.07-11.29.07:174][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.07-11.29.07:258][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.07-11.29.07:283][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.07-11.29.07:333][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.07-11.29.07:378][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.07-11.29.07:424][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.07-11.29.07:471][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.07-11.29.07:471][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.07-11.29.07:905][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.07-11.29.07:966][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/GAZ VR/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.07-11.29.07:966][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GAZ VR/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.07-11.29.07:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.07-11.29.07:966][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.07-11.29.07:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.07-11.29.07:966][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.07-11.29.07:980][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.07-11.29.07:992][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GAZ VR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.07-11.29.08:001][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.07-11.29.08:001][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.07-11.29.08:001][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.07-11.29.08:002][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.07-11.29.08:325][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.07-11.29.08:632][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.07-11.29.08:670][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.07-11.29.08:670][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.07-11.29.08:670][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.07-11.29.08:670][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.07-11.29.08:670][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.07-11.29.08:700][  0]LogNetVersion: MyProject2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4016851739)
+[2018.03.07-11.29.08:855][  0]LogAssetRegistry: FAssetRegistry took 0.0246 seconds to start up
+[2018.03.07-11.29.09:339][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.062561 seconds
+[2018.03.07-11.29.09:344][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.07-11.29.09:344][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.07-11.29.09:344][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.07-11.29.09:398][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.07-11.29.12:048][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.07-11.29.12:096][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.07-11.29.12:734][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.07-11.29.13:128][  0]SourceControl: El control de código fuente está desactivado
+[2018.03.07-11.29.13:128][  0]SourceControl: El control de código fuente está desactivado
+[2018.03.07-11.29.13:178][  0]SourceControl: El control de código fuente está desactivado
+[2018.03.07-11.29.13:228][  0]SourceControl: El control de código fuente está desactivado
+[2018.03.07-11.29.14:002][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.07-11.29.14:256][  0]LogOcInput: OculusInput pre-init called
+[2018.03.07-11.29.14:522][  0]LogEngine: Initializing Engine...
+[2018.03.07-11.29.14:524][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.03.07-11.29.14:708][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.07-11.29.14:708][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.07-11.29.14:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.07-11.29.14:838][  0]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-11.29.14:855][  0]LogInit: FAudioDevice initialized.
+[2018.03.07-11.29.14:981][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/GAZ VR/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.07-11.29.14:992][  0]LogInit: Texture streaming: Enabled
+[2018.03.07-11.29.15:082][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.07-11.29.15:217][  0]LogInit: Transaction tracking system initialized
+[2018.03.07-11.29.15:504][  0]BlueprintLog: New page: Cargar el editor
+[2018.03.07-11.29.16:371][  0]LocalizationService: Localization service is disabled
+[2018.03.07-11.29.17:062][  0]LogConsoleResponse: Display: 
+[2018.03.07-11.29.17:230][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.07-11.29.17:230][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.07-11.29.17:230][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.07-11.29.17:377][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/' took 0.01s
+[2018.03.07-11.29.18:364][  0]SourceControl: El control de código fuente está desactivado
+[2018.03.07-11.29.18:386][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.03.07-11.29.18:411][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.03.07-11.29.18:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.03.07-11.29.18:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.03.07-11.29.18:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.03.07-11.29.18:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.03.07-11.29.18:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.03.07-11.29.18:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.03.07-11.29.18:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.03.07-11.29.18:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.03.07-11.29.18:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.03.07-11.29.18:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.03.07-11.29.18:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.03.07-11.29.18:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.03.07-11.29.18:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.03.07-11.29.18:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.03.07-11.29.18:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.03.07-11.29.18:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.03.07-11.29.18:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.03.07-11.29.18:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01.uasset"
+[2018.03.07-11.29.18:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.03.07-11.29.18:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.03.07-11.29.18:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.03.07-11.29.18:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01.uasset"
+[2018.03.07-11.29.18:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.03.07-11.29.18:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02.uasset"
+[2018.03.07-11.29.18:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.03.07-11.29.18:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.03.07-11.29.18:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.03.07-11.29.18:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.03.07-11.29.18:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.03.07-11.29.18:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.03.07-11.29.18:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.03.07-11.29.18:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.03.07-11.29.18:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.03.07-11.29.18:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01.uasset"
+[2018.03.07-11.29.18:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.03.07-11.29.18:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.03.07-11.29.18:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.03.07-11.29.18:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.03.07-11.29.18:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.03.07-11.29.18:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.03.07-11.29.18:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.03.07-11.29.18:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.03.07-11.29.18:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.03.07-11.29.18:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.03.07-11.29.18:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.03.07-11.29.18:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.03.07-11.29.18:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.03.07-11.29.18:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.03.07-11.29.18:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.03.07-11.29.18:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.03.07-11.29.18:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.03.07-11.29.18:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.03.07-11.29.18:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.03.07-11.29.18:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.03.07-11.29.18:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.03.07-11.29.18:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.03.07-11.29.18:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap.umap"
+[2018.03.07-11.29.18:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.03.07-11.29.18:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.03.07-11.29.18:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.03.07-11.29.18:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.03.07-11.29.18:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.03.07-11.29.18:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.03.07-11.29.18:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.03.07-11.29.18:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.03.07-11.29.18:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.03.07-11.29.18:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.03.07-11.29.18:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.03.07-11.29.18:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.03.07-11.29.18:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.03.07-11.29.18:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.03.07-11.29.18:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.03.07-11.29.18:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.03.07-11.29.18:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.03.07-11.29.18:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.03.07-11.29.18:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.03.07-11.29.18:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.03.07-11.29.18:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.03.07-11.29.18:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.03.07-11.29.18:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.03.07-11.29.18:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.03.07-11.29.18:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.03.07-11.29.18:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.03.07-11.29.18:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.03.07-11.29.18:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.03.07-11.29.18:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.03.07-11.29.18:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.03.07-11.29.18:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.03.07-11.29.18:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.03.07-11.29.18:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.03.07-11.29.18:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.03.07-11.29.18:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.03.07-11.29.18:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.03.07-11.29.18:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.03.07-11.29.18:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.03.07-11.29.18:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.03.07-11.29.18:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.03.07-11.29.18:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.03.07-11.29.18:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.03.07-11.29.18:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.03.07-11.29.18:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.03.07-11.29.18:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.03.07-11.29.18:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.03.07-11.29.18:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.03.07-11.29.18:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.03.07-11.29.18:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.03.07-11.29.18:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.03.07-11.29.18:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.03.07-11.29.18:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.03.07-11.29.18:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.03.07-11.29.18:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.03.07-11.29.18:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.03.07-11.29.18:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.03.07-11.29.18:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.03.07-11.29.18:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.03.07-11.29.18:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.03.07-11.29.18:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.03.07-11.29.18:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.03.07-11.29.18:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.03.07-11.29.18:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.03.07-11.29.18:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.03.07-11.29.19:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.03.07-11.29.19:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Door.uasset"
+[2018.03.07-11.29.19:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.03.07-11.29.19:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.03.07-11.29.19:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.03.07-11.29.19:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.03.07-11.29.19:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.03.07-11.29.19:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.03.07-11.29.19:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.03.07-11.29.19:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.03.07-11.29.19:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.03.07-11.29.19:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.03.07-11.29.19:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.03.07-11.29.19:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.03.07-11.29.19:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.03.07-11.29.19:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.03.07-11.29.19:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.03.07-11.29.19:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.03.07-11.29.19:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.03.07-11.29.19:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.03.07-11.29.19:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.03.07-11.29.19:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.03.07-11.29.19:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.03.07-11.29.19:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.03.07-11.29.19:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.03.07-11.29.19:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.03.07-11.29.19:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.03.07-11.29.19:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.03.07-11.29.19:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.03.07-11.29.19:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.03.07-11.29.19:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.03.07-11.29.19:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.03.07-11.29.19:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.03.07-11.29.19:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.03.07-11.29.19:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.03.07-11.29.19:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.03.07-11.29.19:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.03.07-11.29.19:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.03.07-11.29.19:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.03.07-11.29.19:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.03.07-11.29.19:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.03.07-11.29.19:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.03.07-11.29.19:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.03.07-11.29.19:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.03.07-11.29.19:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.03.07-11.29.19:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.03.07-11.29.19:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.03.07-11.29.19:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.03.07-11.29.19:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.03.07-11.29.19:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.03.07-11.29.19:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.03.07-11.29.19:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.03.07-11.29.19:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.03.07-11.29.19:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.03.07-11.29.19:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.03.07-11.29.19:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.03.07-11.29.19:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.03.07-11.29.19:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.03.07-11.29.19:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.03.07-11.29.19:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.03.07-11.29.19:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.03.07-11.29.19:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.03.07-11.29.19:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.03.07-11.29.19:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.03.07-11.29.19:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.03.07-11.29.19:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.03.07-11.29.19:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.03.07-11.29.19:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.03.07-11.29.19:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.03.07-11.29.19:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.03.07-11.29.19:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.03.07-11.29.19:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.03.07-11.29.19:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.03.07-11.29.19:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.03.07-11.29.19:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.03.07-11.29.19:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.03.07-11.29.19:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.03.07-11.29.19:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.03.07-11.29.19:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.03.07-11.29.19:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.03.07-11.29.19:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.03.07-11.29.19:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.03.07-11.29.19:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.03.07-11.29.19:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.03.07-11.29.19:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.03.07-11.29.19:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.03.07-11.29.19:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.03.07-11.29.19:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.03.07-11.29.19:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.03.07-11.29.19:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.03.07-11.29.19:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.03.07-11.29.19:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.03.07-11.29.19:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.03.07-11.29.19:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.03.07-11.29.19:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.03.07-11.29.19:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.03.07-11.29.19:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.03.07-11.29.19:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.03.07-11.29.19:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.03.07-11.29.19:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.03.07-11.29.19:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.03.07-11.29.19:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.03.07-11.29.19:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.03.07-11.29.19:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.03.07-11.29.19:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.03.07-11.29.19:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.03.07-11.29.19:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.03.07-11.29.19:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.03.07-11.29.19:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.03.07-11.29.19:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.03.07-11.29.19:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.03.07-11.29.19:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.03.07-11.29.19:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.03.07-11.29.19:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.03.07-11.29.19:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.03.07-11.29.19:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.03.07-11.29.19:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.03.07-11.29.19:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.03.07-11.29.19:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.03.07-11.29.19:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.03.07-11.29.19:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.03.07-11.29.19:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.03.07-11.29.19:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.03.07-11.29.19:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.03.07-11.29.19:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.03.07-11.29.19:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.03.07-11.29.19:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.03.07-11.29.19:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.03.07-11.29.19:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.03.07-11.29.20:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.03.07-11.29.20:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.03.07-11.29.20:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.03.07-11.29.20:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.03.07-11.29.20:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.03.07-11.29.20:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.03.07-11.29.20:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.03.07-11.29.20:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.03.07-11.29.20:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.03.07-11.29.20:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.03.07-11.29.20:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.03.07-11.29.20:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.03.07-11.29.20:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.03.07-11.29.20:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.03.07-11.29.20:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.03.07-11.29.20:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.03.07-11.29.20:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.03.07-11.29.20:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.03.07-11.29.20:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.03.07-11.29.20:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.03.07-11.29.20:418][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.03.07-11.29.20:541][  0]LogSavePackage: Save=28.71ms
+[2018.03.07-11.29.20:541][  0]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Floor_400x40055E6A1434C38085326F14A8BCE31BB54.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.03.07-11.29.20:547][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.03.07-11.29.20:547][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.03.07-11.29.20:549][  0]Cmd: MAP LOAD FILE="../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.07-11.29.20:549][  0]LightingResults: New page: Diseñar la iluminación
+[2018.03.07-11.29.20:589][  0]MapCheck: New page: Revisión del mapa
+[2018.03.07-11.29.20:589][  0]LightingResults: New page: Diseñar la iluminación
+[2018.03.07-11.29.21:766][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.03.07-11.29.21:766][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.03.07-11.29.21:766][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.03.07-11.29.21:766][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.03.07-11.29.21:766][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.03.07-11.29.21:766][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.03.07-11.29.21:771][  0]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.03.07-11.29.21:976][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.03.07-11.29.21:976][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.03.07-11.29.22:043][  0]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.03.07-11.29.22:397][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.03.07-11.29.22:397][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.03.07-11.29.22:397][  0]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.03.07-11.29.23:358][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2018.03.07-11.29.24:306][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2018.03.07-11.29.24:307][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2018.03.07-11.29.24:307][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2018.03.07-11.29.24:307][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2018.03.07-11.29.24:307][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2018.03.07-11.29.24:387][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.03.07-11.29.24:561][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.07-11.29.24:797][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.07-11.29.24:809][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.07-11.29.24:882][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71,811ms to complete.
+[2018.03.07-11.29.24:882][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.333
+[2018.03.07-11.29.24:943][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.07-11.29.24:943][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.07-11.29.25:052][  0]LogCollectionManager: Loaded 0 collections in 0.002387 seconds
+[2018.03.07-11.29.25:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Collections/' took 0.01s
+[2018.03.07-11.29.25:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/Developers/GAZVR/Collections/' took 0.01s
+[2018.03.07-11.29.25:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/Collections/' took 0.01s
+[2018.03.07-11.29.25:171][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.07-11.29.25:182][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2363 classes and 519 folders.
+[2018.03.07-11.29.25:287][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.07-11.29.25:337][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.07-11.29.25:405][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.07-11.29.25:425][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-11.29.25:427][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.07-11.29.25:433][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.07-11.29.25:495][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.07-11.29.25:644][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-11.29.25:828][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.07-11.29.25:828][  0]LogLoad: (Engine Initialization) Total time: 23.69 seconds
+[2018.03.07-11.29.25:828][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.07-11.29.25:829][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.07-11.29.25:829][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.07-11.29.25:988][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.07-11.29.26:036][  1]LogAssetRegistry: Asset discovery search completed in 17.2021 seconds
+[2018.03.07-11.29.26:038][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.07-11.29.26:038][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.03.07-11.29.43:854][669]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.07-11.29.43:880][669]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2018.03.07-11.29.43:880][669]LogSynthBenchmark: Display: ===============
+[2018.03.07-11.29.43:880][669]LogSynthBenchmark: Display: Main Processor:
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:          ... 0.022996 s/Run 'RayIntersect'
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:          ... 0.019338 s/Run 'Fractal'
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display: 
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   CPU Perf Index 0: 111.4 (weight 1.00)
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   CPU Perf Index 1: 147.9 (weight 1.50)
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:  
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display: Graphics:
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA Quadro K420 '
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   Device Id: 0xFF3
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2018.03.07-11.29.43:922][669]LogSynthBenchmark: Display:   GPU Memory: 1990/0/16347 MB
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:   GPU first test: 0.03s
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 0.428 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 0.619 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 0.347 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 1.466 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 0.098 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 0.267 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.03.07-11.29.44:017][669]LogSynthBenchmark: Display:          ... 0.441 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.03.07-11.29.44:333][669]LogSynthBenchmark: Display:   GPU second test: 0.26s
+[2018.03.07-11.29.44:333][669]LogSynthBenchmark: Display:          ... 0.506 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.809 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.373 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 2.272 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.104 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.236 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.350 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.506 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.809 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.373 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 2.272 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.104 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.236 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... 0.350 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display: 
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 0: 11.0 (weight 1.00)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 1: 10.9 (weight 0.10)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 2: 9.7 (weight 0.10)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 3: 8.9 (weight 3.00)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 4: 9.7 (weight 1.00)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 5: 15.4 (weight 0.00)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPU Perf Index 6: 19.8 (weight 0.00)
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   CPUIndex: 133.3
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:   GPUIndex: 9.5
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display: 
+[2018.03.07-11.29.44:334][669]LogSynthBenchmark: Display:          ... Total Time: 0.454521 sec
+[2018.03.07-11.29.44:693][672]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:153).
+[2018.03.07-11.29.44:732][672]LogContentStreaming: Texture pool size now 400 MB
+[2018.03.07-11.29.44:963][681]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.07-11.29.44:963][681]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2018.03.07-11.29.44:963][681]LogSynthBenchmark: Display: ===============
+[2018.03.07-11.29.44:963][681]LogSynthBenchmark: Display: Main Processor:
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:          ... 0.021241 s/Run 'RayIntersect'
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:          ... 0.019735 s/Run 'Fractal'
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display: 
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   CPU Perf Index 0: 120.6 (weight 1.00)
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   CPU Perf Index 1: 144.9 (weight 1.50)
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:  
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display: Graphics:
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA Quadro K420 '
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   Device Id: 0xFF3
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2018.03.07-11.29.45:004][681]LogSynthBenchmark: Display:   GPU Memory: 1990/0/16347 MB
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:   GPU first test: 0.03s
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 0.420 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 0.624 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 0.344 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 1.447 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 0.098 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 0.263 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.03.07-11.29.45:067][681]LogSynthBenchmark: Display:          ... 0.441 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.03.07-11.29.45:359][681]LogSynthBenchmark: Display:   GPU second test: 0.26s
+[2018.03.07-11.29.45:359][681]LogSynthBenchmark: Display:          ... 0.506 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.03.07-11.29.45:359][681]LogSynthBenchmark: Display:          ... 0.813 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2018.03.07-11.29.45:359][681]LogSynthBenchmark: Display:          ... 0.369 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 2.292 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.104 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.238 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.350 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.506 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.813 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.369 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 2.292 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.104 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.238 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... 0.350 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display: 
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 0: 11.0 (weight 1.00)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 1: 10.9 (weight 0.10)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 2: 9.6 (weight 0.10)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 3: 9.0 (weight 3.00)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 4: 9.7 (weight 1.00)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 5: 15.5 (weight 0.00)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPU Perf Index 6: 19.8 (weight 0.00)
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   CPUIndex: 135.2
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:   GPUIndex: 9.6
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display: 
+[2018.03.07-11.29.45:360][681]LogSynthBenchmark: Display:          ... Total Time: 0.396666 sec
+[2018.03.07-11.29.50:785][958]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:156).
+[2018.03.07-11.29.50:834][959]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.07-11.29.55:842][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.07-11.34.14:121][803]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-11.34.14:196][803]LogSlate: Took 0.035432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.07-11.36.34:689][506]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.03.07-11.36.35:313][506]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.03.07-11.36.35:337][506]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-11.36.35:541][506]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.03.07-11.36.40:155][561]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:60).
+[2018.03.07-11.36.52:452][681]LogSlate: Took 0.014086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.07-11.37.26:039][ 97]LogHttp: Warning: 000001D71AD51000: request failed, libcurl error: 0 (No error)
+[2018.03.07-11.37.26:039][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 1 (Closing connection 1)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 3 (  Trying 52.3.209.95...)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.3.209.95) port 443 (#2))
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 7 (SSL re-using session ID)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.03.07-11.37.26:040][ 97]LogHttp: Warning: 000001D71AD51000: libcurl info message cache 10 (Closing connection 2)
+[2018.03.07-11.37.58:516][770]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.03.07-11.39.17:602][985]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-11.39.26:665][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2018.03.07-11.39.26:676][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/LaserTripMine] ([1] browsable assets)...
+[2018.03.07-11.39.26:705][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/LaserTripMine.LaserTripMine]
+[2018.03.07-11.39.26:706][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/LaserTripMine]
+[2018.03.07-11.39.26:728][ 12]LogSavePackage: Save=20.01ms
+[2018.03.07-11.39.26:728][ 12]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine_Auto12880EB5D4BFC63309D49CBBAA448BFD5.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/LaserTripMine_Auto1.uasset'
+[2018.03.07-11.39.26:731][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/LaserTripMine_Auto1.uasset
+[2018.03.07-11.39.26:731][ 12]LogFileHelpers: Auto-saving content packages took 0.064
+[2018.03.07-11.39.57:484][161]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.03.07-11.40.00:338][398]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall1)
+[2018.03.07-11.53.32:560][187]LogSavePackage: Save=18.55ms
+[2018.03.07-11.53.32:560][187]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMineACA2E04346CF143A15C92EA73A7A2EED.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-11.53.32:565][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-11.54.05:304][322]LogEditorTransaction: Undo Cambiar el nombre de la variable del componente
+[2018.03.07-11.54.06:568][363]LogEditorTransaction: Undo Crear raíz de escena nueva
+[2018.03.07-11.56.25:140][989]LogEditorTransaction: Undo Modificar componente(s)
+[2018.03.07-11.56.51:281][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.018
+[2018.03.07-11.56.51:282][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/LaserTripMine] ([1] browsable assets)...
+[2018.03.07-11.56.51:311][338]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/LaserTripMine.LaserTripMine]
+[2018.03.07-11.56.51:311][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/LaserTripMine]
+[2018.03.07-11.56.51:336][338]LogSavePackage: Save=17.73ms
+[2018.03.07-11.56.51:336][338]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine_Auto282DDE15F472F71CA548285AF1606A6E3.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/LaserTripMine_Auto2.uasset'
+[2018.03.07-11.56.51:339][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/LaserTripMine_Auto2.uasset
+[2018.03.07-11.56.51:339][338]LogFileHelpers: Auto-saving content packages took 0.057
+[2018.03.07-11.57.40:812][865]LogSavePackage: Save=18.48ms
+[2018.03.07-11.57.40:813][865]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine61BF2B3E49EC48517FEAB1AFCE598DA2.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-11.57.40:816][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-12.00.47:993][691]LogSlate: Took 0.050263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.07-12.00.48:106][692]LogSlate: Took 0.095742 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2018.03.07-12.00.50:800][816]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.051148 seconds
+[2018.03.07-12.00.51:512][817]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-12.00.51:518][817]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.07-12.00.51:522][817]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.07-12.00.51:523][817]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-12.00.57:361][890]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-12.00.57:428][890]LogSavePackage: Save=17.97ms
+[2018.03.07-12.00.57:428][890]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine3F9BD1AC475D7678290FB693469ABE43.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-12.00.57:434][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-12.00.59:517][963]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.07-12.02.16:622][905]LogSavePackage: Save=18.65ms
+[2018.03.07-12.02.16:622][905]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine5996BAFC446BD34E176757B9C9AB8CB8.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-12.02.16:625][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-12.04.46:015][890]LogSavePackage: Save=19.16ms
+[2018.03.07-12.04.46:015][890]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine97B75274411E4931D99413BD73B611EC.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-12.04.46:017][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: request failed, libcurl error: 0 (No error)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 0 (Connection 13 seems to be dead!)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 1 (Closing connection 13)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 3 (  Trying 34.224.220.129...)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (34.224.220.129) port 443 (#14))
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 7 (SSL re-using session ID)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.03.07-12.10.25:919][541]LogHttp: Warning: 000001D7A8F6CA00: libcurl info message cache 10 (Closing connection 14)
+[2018.03.07-12.13.10:184][734]BlueprintLog: New page: Compile LaserTripMine
+[2018.03.07-12.13.12:141][755]LogSavePackage: Save=20.76ms
+[2018.03.07-12.13.12:141][755]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine9F314AF849ADA0A23EE8E7B63188D8ED.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-12.13.12:144][755]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-12.13.22:981][904]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.07-12.17.38:139][355]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-12.17.38:227][355]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.07-12.17.41:764][433]LogEditorTransaction: Undo Edit Impulse Strength
+[2018.03.07-12.17.47:521][601]Cmd: TRANSACTION REDO
+[2018.03.07-12.17.47:521][601]LogEditorTransaction: Redo Edit Impulse Strength
+[2018.03.07-12.17.50:196][733]Cmd: TRANSACTION REDO
+[2018.03.07-12.17.50:196][733]LogEditorTransaction: Redo Modify Component(s)
+[2018.03.07-12.18.04:614][ 99]Cmd: TRANSACTION UNDO
+[2018.03.07-12.18.04:614][ 99]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.07-12.18.57:757][ 11]BlueprintLog: New page: Compile LaserTripMine
+[2018.03.07-12.19.37:408][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.016
+[2018.03.07-12.19.37:409][911]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/LaserTripMine] ([1] browsable assets)...
+[2018.03.07-12.19.37:440][911]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/LaserTripMine.LaserTripMine]
+[2018.03.07-12.19.37:440][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/LaserTripMine]
+[2018.03.07-12.19.37:470][911]LogSavePackage: Save=21.76ms
+[2018.03.07-12.19.37:470][911]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine_Auto36A46EB6A42B6943BE57387A41588E981.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/LaserTripMine_Auto3.uasset'
+[2018.03.07-12.19.37:473][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/LaserTripMine_Auto3.uasset
+[2018.03.07-12.19.37:473][911]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.03.07-12.48.46:420][128]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.07-12.48.46:503][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-12.48.46:504][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-12.48.46:512][128]PIE: New page: PIE session: FirstPersonExampleMap (Mar 7, 2018, 2:48:46 PM)
+[2018.03.07-12.48.46:524][128]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.07-12.48.46:562][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038180s)
+[2018.03.07-12.48.46:563][128]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.07-12.48.46:563][128]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.03.07-12.48.46:563][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.039632s)
+[2018.03.07-12.48.46:616][128]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-12.48.46:632][128]LogInit: FAudioDevice initialized.
+[2018.03.07-12.48.46:716][128]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.07-12.48.46:737][128]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.07-13.48.46
+[2018.03.07-12.48.46:749][128]LogWorld: Bringing up level for play took: 0.018033
+[2018.03.07-12.48.46:889][128]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.03.07-12.48.46:917][128]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.527
+[2018.03.07-12.48.46:917][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-12.48.55:179][292]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-12.48.55:279][292]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-12.54.19:386][619]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-12.54.22:720][672]LogSavePackage: Save=116.33ms
+[2018.03.07-12.54.22:720][672]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacter26DC0E1C4E8DAFAC186948B3810555C3.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.03.07-12.54.22:726][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.03.07-12.54.47:333][748]LogSavePackage: Save=142.51ms
+[2018.03.07-12.54.47:333][748]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMap_Auto468A900CC402D94F71FBCF08A5BE047E5.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.03.07-12.54.47:334][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.03.07-12.54.47:344][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.205
+[2018.03.07-12.54.47:344][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2018.03.07-12.56.23:314][454]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-12.56.23:352][454]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2018.03.07-12.56.23:679][454]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [5241.54] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 364 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.07-13.00.27:081][187]LogEditorTransaction: Undo Align Center
+[2018.03.07-13.03.21:300][942]LogSavePackage: Save=118.58ms
+[2018.03.07-13.03.21:300][942]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacter7650C80841B348BB5B4611B35BD2F980.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.03.07-13.03.21:304][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.03.07-13.04.12:852][708]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-13.04.12:897][708]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2018.03.07-13.04.13:240][708]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [5711.10] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 387 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.07-13.04.54:308][152]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-13.04.54:353][152]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2018.03.07-13.04.54:686][152]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [5752.55] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 378 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.07-13.05.15:069][259]LogSlate: Took 0.016922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.07-13.08.19:517][796]LogSavePackage: Save=149.64ms
+[2018.03.07-13.08.19:517][796]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMap_Auto59E1F443C4671AC854CA73CBDF36A37BB.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2018.03.07-13.08.19:520][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2018.03.07-13.08.19:523][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.190
+[2018.03.07-13.08.19:523][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.190
+[2018.03.07-13.08.19:525][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.07-13.08.19:556][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.03.07-13.08.19:556][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.07-13.08.19:672][796]LogSavePackage: Save=113.10ms
+[2018.03.07-13.08.19:672][796]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacter_Auto51D8056FB476F407A77ECA5B806C3F2A3.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2018.03.07-13.08.19:673][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset
+[2018.03.07-13.08.19:674][796]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.03.07-13.31.28:199][565]LogSavePackage: Save=153.89ms
+[2018.03.07-13.31.28:199][565]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMap_Auto6BA355A4846EA3B93A5FECBB7D4B0F6D5.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2018.03.07-13.31.28:202][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2018.03.07-13.31.28:204][565]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.193
+[2018.03.07-13.31.28:204][565]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2018.03.07-13.31.28:207][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.07-13.31.28:255][565]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.03.07-13.31.28:255][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.07-13.31.28:376][565]LogSavePackage: Save=114.35ms
+[2018.03.07-13.31.28:376][565]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacter_Auto6BF141669424A5EE69F605AB03F906098.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2018.03.07-13.31.28:378][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset
+[2018.03.07-13.31.28:378][565]LogFileHelpers: Auto-saving content packages took 0.172
+[2018.03.07-13.33.28:783][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.03.07-13.34.17:232][852]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-13.34.17:277][852]LogBlueprint: Error: [Compiler FirstPersonCharacter] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2018.03.07-13.34.17:279][852]LogClass: Warning: Type mismatch in WorldStatic of FirstPersonCharacter_C - Previous (BoolProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.03.07-13.34.17:631][852]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [7515.49] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 398 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.07-13.35.22:000][882]Cmd: TRANSACTION UNDO
+[2018.03.07-13.35.22:000][882]LogEditorTransaction: Undo Create Pin Link
+[2018.03.07-13.36.22:298][714]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-13.38.43:349][836]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.07-13.41.27:128][189]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-13.41.30:448][235]LogSavePackage: Save=137.11ms
+[2018.03.07-13.41.30:448][235]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacterB7984201487573788D9FB790B10BC740.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.03.07-13.41.30:457][235]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.03.07-13.42.09:590][591]LogSavePackage: Save=150.40ms
+[2018.03.07-13.42.09:591][591]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMap_Auto71B2E9363468D9AA7B25CE7ACE5C312E1.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2018.03.07-13.42.09:593][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap
+[2018.03.07-13.42.09:595][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.184
+[2018.03.07-13.42.09:596][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2018.03.07-13.42.09:598][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.07-13.42.09:624][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.03.07-13.42.09:624][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.07-13.42.09:756][591]LogSavePackage: Save=129.58ms
+[2018.03.07-13.42.09:756][591]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacter_Auto7615C302842FA706570D10E9FB708053F.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2018.03.07-13.42.09:758][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset
+[2018.03.07-13.42.09:758][591]LogFileHelpers: Auto-saving content packages took 0.162
+[2018.03.07-13.42.10:378][605]Cmd: POLY SELECT MEMORY INTERSECTION
+[2018.03.07-13.42.44:741][282]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.07-13.42.46:020][295]LogSavePackage: Save=133.35ms
+[2018.03.07-13.42.46:020][295]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacterFCFBE7504C836D9943521F8B9E7192F8.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.03.07-13.42.46:027][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.03.07-13.43.40:576][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.07-13.43.41:572][171]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.07-13.43.41:614][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-13.43.41:614][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-13.43.41:614][171]PIE: New page: PIE session: FirstPersonExampleMap (Mar 7, 2018, 3:43:41 PM)
+[2018.03.07-13.43.41:614][171]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.07-13.43.41:627][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013218s)
+[2018.03.07-13.43.41:628][171]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.07-13.43.41:628][171]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.03.07-13.43.41:629][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014569s)
+[2018.03.07-13.43.41:652][171]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-13.43.41:667][171]LogInit: FAudioDevice initialized.
+[2018.03.07-13.43.41:700][171]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.07-13.43.41:703][171]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.07-14.43.41
+[2018.03.07-13.43.41:704][171]LogWorld: Bringing up level for play took: 0.001992
+[2018.03.07-13.43.41:705][171]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.26
+[2018.03.07-13.43.41:705][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-13.44.12:280][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-13.44.12:349][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-13.44.44:855][414]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.07-13.44.44:868][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-13.44.44:869][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-13.44.44:869][414]PIE: New page: PIE session: FirstPersonExampleMap (Mar 7, 2018, 3:44:44 PM)
+[2018.03.07-13.44.44:869][414]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.07-13.44.44:882][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013152s)
+[2018.03.07-13.44.44:883][414]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.07-13.44.44:883][414]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.03.07-13.44.44:883][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014310s)
+[2018.03.07-13.44.44:905][414]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-13.44.44:921][414]LogInit: FAudioDevice initialized.
+[2018.03.07-13.44.44:993][414]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.07-13.44.44:996][414]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.07-14.44.44
+[2018.03.07-13.44.44:996][414]LogWorld: Bringing up level for play took: 0.001777
+[2018.03.07-13.44.44:997][414]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.447
+[2018.03.07-13.44.44:997][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.04.41:008][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.04.41:148][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.12.37:474][369]LogSavePackage: Save=152.04ms
+[2018.03.07-15.12.37:475][369]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMap_Auto8523E881944EFD6410E7A4F88CBDB07AB.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap'
+[2018.03.07-15.12.37:477][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap
+[2018.03.07-15.12.37:482][369]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.194
+[2018.03.07-15.12.37:482][369]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2018.03.07-15.12.37:484][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.07-15.12.37:484][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.07-15.12.37:614][369]LogSavePackage: Save=121.63ms
+[2018.03.07-15.12.37:614][369]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacter_Auto8C1EF41154062B8E24261C2B2BF47CA88.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset'
+[2018.03.07-15.12.37:615][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto8.uasset
+[2018.03.07-15.12.37:616][369]LogFileHelpers: Auto-saving content packages took 0.132
+[2018.03.07-15.18.15:308][418]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.07-15.18.15:320][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.18.15:320][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.07-15.18.15:320][418]PIE: New page: PIE session: FirstPersonExampleMap (Mar 7, 2018, 5:18:15 PM)
+[2018.03.07-15.18.15:320][418]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.07-15.18.15:334][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013574s)
+[2018.03.07-15.18.15:335][418]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.07-15.18.15:335][418]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.03.07-15.18.15:335][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014822s)
+[2018.03.07-15.18.15:357][418]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.07-15.18.15:371][418]LogInit: FAudioDevice initialized.
+[2018.03.07-15.18.15:428][418]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.07-15.18.15:431][418]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.07-16.18.15
+[2018.03.07-15.18.15:431][418]LogWorld: Bringing up level for play took: 0.001796
+[2018.03.07-15.18.15:432][418]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.286
+[2018.03.07-15.18.15:432][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.19.50:652][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.19.50:783][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.07-15.19.52:370][709]LogSavePackage: Save=151.98ms
+[2018.03.07-15.19.52:370][709]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMapA2DBC6D744DBB6B82175558B95F637E8.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.03.07-15.19.52:378][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.03.07-15.19.53:310][709]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.07-15.19.53:563][709]LogSavePackage: Save=1140.00ms
+[2018.03.07-15.19.53:563][709]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonExampleMap_BuiltDataC8B73A0A4510C3AA9156478F6668BD40.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.03.07-15.19.53:565][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.03.07-15.19.56:256][744]LogSavePackage: Save=120.25ms
+[2018.03.07-15.19.56:256][744]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/FirstPersonCharacterB5BA8E6241BCF8B7C0757FBC8CA55557.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.03.07-15.19.56:262][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.03.07-15.19.56:286][744]LogSavePackage: Save=12.37ms
+[2018.03.07-15.19.56:286][744]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserTripMine7B74F6B84A176432FDEED0AB85F98325.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset'
+[2018.03.07-15.19.56:289][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Content/FirstPersonBP/Blueprints/LaserTripMine.uasset
+[2018.03.07-15.21.26:209][594]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.03.07-15.21.26:211][594]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.26:580][594]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.03.07-15.21.26:793][594]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.28:237][614]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.03.07-15.21.28:237][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.03.07-15.21.28:237][614]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.21.28:237][614]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-15.21.34:447][701]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.34:458][701]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.34:798][707]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.21.34:798][707]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.21.34:798][707]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.21.42:284][811]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.42:288][811]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.03.07-15.21.42:553][816]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.21.42:553][816]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.21.42:553][816]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.21.53:705][971]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.53:711][971]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.21.53:739][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.03.07-15.21.54:028][977]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.21.54:028][977]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.21.54:028][977]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.01:571][ 83]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.01:576][ 83]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.01:841][ 88]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.22.01:841][ 88]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.22.01:841][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.11:689][226]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.11:693][226]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.11:956][231]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.22.11:956][231]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.22.11:956][231]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.26:416][434]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.26:421][434]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.26:712][440]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.22.26:712][440]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.22.26:712][440]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.36:565][578]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.36:851][584]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.22.36:851][584]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.22.36:851][584]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.43:013][670]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.43:294][675]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.22.43:294][675]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.22.43:294][675]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.47:541][734]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.47:822][739]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.03.07-15.22.47:822][739]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-15.22.47:822][739]MaterialEditorStats: Texture samplers: 0/16
+[2018.03.07-15.22.50:294][773]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.22.50:295][773]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.22.50:295][773]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.22.50:297][773]MaterialEditorStats: Error: [SM5] Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.24.20:381][325]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.24.20:381][325]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.24.20:381][325]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.24.39:763][672]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.24.39:764][672]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.24.39:764][672]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.25.02:388][961]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.25.02:388][961]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.25.02:388][961]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.25.02:390][961]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.25.02:390][961]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.25.02:390][961]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.25.14:340][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.03.07-15.28.03:219][886]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.03:219][886]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.03:219][886]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.28.31:414][281]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.31:414][281]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.31:414][281]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.28.31:416][281]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.31:417][281]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.31:417][281]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.28.39:427][394]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.39:428][394]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.39:428][394]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.28.39:429][394]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.39:430][394]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.39:430][394]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.28.55:204][615]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.55:205][615]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.55:205][615]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.28.55:206][615]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.28.55:207][615]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.28.55:207][615]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.09:518][817]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.09:518][817]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.09:518][817]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.09:519][817]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.09:520][817]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.09:520][817]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.24:983][ 35]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.24:984][ 35]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.24:984][ 35]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.24:985][ 35]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.24:986][ 35]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.24:986][ 35]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.34:754][172]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.34:755][172]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.34:755][172]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.34:756][172]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.34:757][172]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.34:757][172]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.39:461][239]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.39:462][239]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.39:462][239]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.49:063][375]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.49:063][375]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.49:063][375]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.29.56:234][476]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.29.56:234][476]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.29.56:234][476]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.30.23:915][602]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.30.23:915][602]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.30.23:915][602]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.30.46:518][  7]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.30.46:519][  7]LogMaterial: Warning: /Engine/Transient.LaserMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.07-15.30.46:519][  7]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.03.07-15.32.01:248][995]LogMaterialEditor: Applying material LaserMaterial
+[2018.03.07-15.32.23:905][204]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.03.07-15.32.52:536][389]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.017
+[2018.03.07-15.32.52:538][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Textures/LaserMaterial] ([1] browsable assets)...
+[2018.03.07-15.32.52:627][389]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPerson/Textures/LaserMaterial.LaserMaterial]
+[2018.03.07-15.32.52:627][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Textures/LaserMaterial]
+[2018.03.07-15.32.52:645][389]LogSavePackage: Save=16.20ms
+[2018.03.07-15.32.52:645][389]LogSavePackage: Moving '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/LaserMaterial_Auto9D1932031456F1E7087FFCE9C9F514147.tmp' to '../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPerson/Textures/LaserMaterial_Auto9.uasset'
+[2018.03.07-15.32.52:648][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GAZ VR/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/FirstPerson/Textures/LaserMaterial_Auto9.uasset
+[2018.03.07-15.32.52:648][389]LogFileHelpers: Auto-saving content packages took 0.110
+[2018.03.07-15.33.23:643][652]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.33.23:657][652]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.34.21:615][656]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.34.54:073][805]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.35.19:186][152]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.36.03:020][757]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2018.03.07-15.36.03:216][758]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.169 s
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: 
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ShaderBaseClasses.cpp] [Line: 224]
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: TBasePassVSFNoLightMapPolicy shader uniform expression set mismatched shader map for material LaserMaterial/WorldGridMaterial, forcing expression cache evaluation.
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: Material:  Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: Proxy:  PreviewMaterial /Engine/Transient.LaserMaterial
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: 
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: Stack: 
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x00000000724E2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000007228123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000007229B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005FE68C81 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F91477C UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F920D90 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F87E6DD UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F87F0B2 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F8D3F15 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F907A52 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F908D18 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F9075A7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005F98793E UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005FEBE9A4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x000000005FE9DA76 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.07-15.36.03:216][758]LogOutputDevice: Error: [Callstack] 0x0000000072144845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x0000000072144E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x00000000899C22C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x00000000899C32F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x00000000724E092C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x00000000724D2563 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x00000000B59F1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: [Callstack] 0x00000000B5B2EFC1 ntdll.dll!UnknownFunction []
+[2018.03.07-15.36.03:217][758]LogOutputDevice: Error: 
+[2018.03.07-15.36.03:217][758]LogStats:                SubmitErrorReport -  0.000 s
